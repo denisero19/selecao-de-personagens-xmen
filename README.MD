@@ -4,6 +4,8 @@ Um projeto do site dos personagens do X-Men com logotipo, menu contendo os perso
 
 <img src="./desktop.gif" alt= "Imagem para tela de desktop">
 
+<img src="./mobile.gif" alt= "Imagem para tela de mobile">
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
